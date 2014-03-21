@@ -1,0 +1,87 @@
+c 10
+
+v 2 3 25
+
+v 3 4 20
+
+v 4 5 40
+
+m prima 1 0 NOOSEENESSONNNEN
+
+m seconda 2 1 NNEEEESSOONNNEEESSOOOONN
+
+l
+
+m terza 1 2 NNEESSOO
+
+m quarta 5 5 O
+l
+d NNE
+
+u NNE
+
+m seconda2 2 1 NNEEEESSOONNNEEESSOOOONN
+
+r prima
+
+r seconda2
+
+l
+
+d NNE
+
+u NNE
+
+l
+
+s terza
+
+r terza
+
+s terza
+
+l
+
+c 100
+
+m mappa1 -10 2 EEENNOOSEENOOSEEEE
+
+m mappa2 -2 2 EEEENOSSEENNOOOOSO
+
+m mappa3 3 5 EENEEENNOOSSSEEESSOONNNEE
+
+m mappa4 3 -4 ENNEESSOOSSESONENNON
+
+d O
+
+d EEEE
+
+d EEE
+
+v -5 3 50
+
+v 9 6 70
+
+v 4 -3 90
+
+r mappa1
+
+s mappa1
+
+r mappa2
+
+s mappa2
+
+r mappa3
+
+s mappa3
+
+r mappa4
+
+s mappa4
+
+u E
+
+l
+
+f
